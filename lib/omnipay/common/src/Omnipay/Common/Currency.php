@@ -140,6 +140,7 @@ class Currency
             'VUV' => array('numeric' => '548', 'decimals' => 0),
             'WST' => array('numeric' => '882', 'decimals' => 2),
             'ZAR' => array('numeric' => '710', 'decimals' => 2),
+            'JOD' => array('numeric' => null, 'decimals' => 2),
         );
     }
 }
